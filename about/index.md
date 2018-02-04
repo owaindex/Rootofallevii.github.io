@@ -3,4 +3,6 @@ layout: page
 type: about
 ---
 
-Building...
+University of Waterloo, Bachelor of Computer Science, Expect 2022.
+
+Under construction...
