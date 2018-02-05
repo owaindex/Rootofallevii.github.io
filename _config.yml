@@ -185,7 +185,7 @@ font:
   posts:
     external: true
     family: Amiri
-    size: 13
+    size: 16
 
   # Font settings for Logo
   # Fallback to `global` font settings.
