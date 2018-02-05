@@ -4,5 +4,4 @@ type: about
 ---
 
 University of Waterloo, Bachelor of Computer Science, Expect 2022.
-
-Under construction...
+Please find my resume in PDF [here]({{ site.url }}/assets/resume.pdf).
