@@ -184,7 +184,7 @@ font:
   # Fallback to `global` font settings.
   posts:
     external: true
-    family: 'Amiri', serif;
+    family: Amiri, serif;
 
   # Font settings for Logo
   # Fallback to `global` font settings.
