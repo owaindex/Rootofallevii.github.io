@@ -6,7 +6,7 @@
 # Site
 title: The Library
 subtitle: 
-description: Hi, I'm David! I'm currently pursing a Computer Science degree at the University of Waterloo (estimated 2022). I am very passionate about math and CS and hope to apply my knowledge and skills to real-world problems. This website is mainly a collection of my notes and journals that I think others might find helpful. Please find my resume in PDF [here]({{ site.url }}/assets/resume.pdf ).
+description: Hi, I'm David! I'm currently pursing a Computer Science degree at the University of Waterloo (estimated 2022). I am very passionate about math and CS and hope to apply my knowledge and skills to real-world problems. This website is mainly a collection of my notes and journals that I think others might find helpful. Please find my resume in PDF on About page.
 
 author: David Duan
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
