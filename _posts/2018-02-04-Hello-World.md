@@ -5,11 +5,9 @@ categories:
 - misc
 ---
 
-# Hello, World!
-
-Indeed. Hello, world!
+Hello, world!
 
 
 
-David.
+
 
