@@ -5,6 +5,7 @@ description: Everything I learned from Kaggle competition Titanic - ML from Disa
 date: 2018-04-27
 categories:
 - Data Science
+- Kaggle
 ---
 
 > Right-click and open in new tab: [Kaggle-Titanic-Notes]({{ site.url }}/assets/Data/Kaggle-Titanic-Notes.html).
