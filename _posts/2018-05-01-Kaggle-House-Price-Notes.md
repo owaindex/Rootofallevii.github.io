@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kaggle-House-Price-Notes
-description: Everything I learned from Kaggle competition House Prices: Advanced Regression Techniques.
+description: Everything I learned from Kaggle competition House Prices - Advanced Regression Techniques.
 date: 2018-05-01
 categories:
 - Data Science
