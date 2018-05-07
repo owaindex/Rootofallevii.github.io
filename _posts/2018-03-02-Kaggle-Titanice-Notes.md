@@ -2,7 +2,7 @@
 layout: post
 title: Kaggle-Titanic-Notes
 description: Everything I learned from Kaggle competition Titanic - ML from Disaster.
-date: 2018-04-27
+date: 2018-03-02
 categories:
 - Data Science
 - Kaggle
