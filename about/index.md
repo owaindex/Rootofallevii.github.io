@@ -15,14 +15,12 @@ I'm currently pursing a Computer Science degree at the University of Waterloo (e
 
 </p>
 
----
-
-Resume
-
 - [Resume_data]({{ site.url }}/assets/resume_data.pdf ) 
 - [Resume_dev]({{ site.url }}/assets/Master/resumeDev.pdf )
 
 ---
+
+<!--
 
 Here are some side projects I have been working on in the past:
 
@@ -49,3 +47,4 @@ Here are some side projects I have been working on in the past:
 
 ---
 
+-->
