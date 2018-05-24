@@ -16,7 +16,7 @@ I'm currently pursing a Computer Science degree at the University of Waterloo (e
 </p>
 
 - [Resume_data]({{ site.url }}/assets/resume_data.pdf ) 
-- [Resume_dev]({{ site.url }}/assets/Master/resumeDev.pdf )
+- [Resume_dev]({{ site.url }}/assets/resumeDev.pdf )
 
 ---
 
